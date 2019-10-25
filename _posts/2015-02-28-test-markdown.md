@@ -8,20 +8,16 @@ tags: [test]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
 
 **Here is some bold text**
 
-## Here is a secondary heading
+## Who wins in Sumo
 
-Here's a useless table:
+Sumo wrestling is said to have been made 2000 years ago, rich in culture and deeply ingrained in the Japanese society it is now the national sport. 
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+What intrigues me about sumo wresting is that there are no weight classes, everyone is able to fight everyone and what dictates who fights who is based on win/loss record in the tournament.
+(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjVp-7g9rflAhXuzoUKHTUIAHAQjRx6BAgBEAQ&url=https%3A%2F%2Fbjj-world.com%2Ftakanoyama-shuntaro-aka-pavel-bojar-smallest-sumo-champion%2F&psig=AOvVaw1T_o4IBpepVJlv_HhAJxz1&ust=1572110661273411)
 
 
 How about a yummy crepe?
