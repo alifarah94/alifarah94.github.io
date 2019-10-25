@@ -13,35 +13,13 @@ What intrigues me about sumo wresting is that there are no weight classes, every
 
 I want to know who’s winning matches. How much do they weight? how tall are they? Are you more likely to win if your heavier than your opponent? Are you more likely to lose if your heavier than your opponent? 
 
-Here's a code chunk:
+The dataset I’m using has records of every professional match fought from January 1983 to September 2019. 
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
 
-And here is the same code with syntax highlighting:
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+## How much do sumo weight
 
-And here is the same code yet again but with line numbers:
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
 
 ### Notification
 
