@@ -1,25 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@alifarah94 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-0
-06.6kalifarah94/alifarah94.github.io
-forked from daattali/beautiful-jekyll
- Code Pull requests 0 Projects 0 Security Insights Settings
-alifarah94.github.io/_posts/Sumo
-@alifarah94 alifarah94 Create Sumo
-1849f10 5 minutes ago
-43 lines (22 sloc)  2.2 KB
-  
 ## Who wins in Sumo
 
 Sumo wrestling is said to have been made 2000 years ago, rich in culture and deeply ingrained in the Japanese society it is now the national sport. 
