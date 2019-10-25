@@ -2,6 +2,8 @@
 
 Sumo wrestling is said to have been made 2000 years ago, rich in culture and deeply ingrained in the Japanese society it is now the national sport. 
 
+![Sumo](https://upload.wikimedia.org/wikipedia/commons/a/ac/Kunisada_sumo_1851.jpg)
+
 
 What intrigues me about sumo wresting is that there are no weight classes, everyone is able to fight everyone and what dictates who fights who is based on win/loss record in the tournament.
 
