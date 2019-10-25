@@ -36,7 +36,7 @@ Visually we can see that graph 2 is identical to graph 1. When we look at the ma
 
 ![Sumo](https://github.com/alifarah94/alifarah94.github.io/blob/master/img/maches%20lose.png?raw=true)
 
-The graph for matches losed proves are theory
+The graph for matches losed follows the exact pattern as the graph above surgesting are theory was right
 
 
 ### Crunching the numbers
