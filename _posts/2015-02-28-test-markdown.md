@@ -18,9 +18,11 @@ The dataset I’m using has records of every professional match fought from Janu
 
 ## How much do sumo weight
 ![Sumo](https://github.com/alifarah94/alifarah94.github.io/blob/master/img/total%20sumo%20weight.png?raw=true)
+
 Here the data is showing every sumo that has fought at each weight (The data is showing weights of sumo’s at each fight and not individual sumo)
 
 You can see that the majority of fighters are on the 150 kg mark.
+
 ![Sumo](https://github.com/alifarah94/alifarah94.github.io/blob/master/img/Mean%20weight.png?raw=true)
 The mean weight validates this.
 
