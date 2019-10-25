@@ -24,6 +24,7 @@ Here the data is showing every sumo that has fought at each weight (The data is 
 You can see that the majority of fighters are on the 150 kg mark.
 
 ![Sumo](https://github.com/alifarah94/alifarah94.github.io/blob/master/img/Mean%20weight.png?raw=true)
+
 The mean weight validates this.
 
 It seems that Sumo’s like to fight around the 150 kg weight. Lets look at wins by weight and see if we can find a correlation.
