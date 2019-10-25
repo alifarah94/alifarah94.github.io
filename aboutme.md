@@ -34,6 +34,10 @@ It seems that Sumo’s like to fight around the 150 kg weight. Lets look at wins
 
 Visually we can see that graph 2 is identical to graph 1. When we look at the matches won axis, we can see that wins only go up to 2000 matches. If we look back at the previous graph the amount of sumo at the same weight numbered just over 4000, this suggest that the win rate around the mean weight is around 50/50.
 
+![Sumo](https://github.com/alifarah94/alifarah94.github.io/blob/master/img/maches%20lose.png?raw=true)
+
+The graph for matches losed proves are theory
+
 
 ### Crunching the numbers
 If a sumo is heavier than his opponent, then he is 25% more likely to win
