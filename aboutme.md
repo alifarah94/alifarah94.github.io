@@ -8,7 +8,7 @@ Sumo wrestling is said to have been made 2000 years ago, rich in culture and dee
 What intrigues me about sumo wresting is that there are no weight classes, everyone is able to fight everyone and what dictates who fights who is based on win/loss record in the tournament.
 
 
-![Sumo](https://github.com/alifarah94/alifarah94.github.io/blob/master/img/number%20of%20sumo%202.png?raw=true)
+![Sumo](https://bjj-world.com/wp-content/uploads/2017/12/Screenshot_122.jpg)
 
 
 I want to know who’s winning matches. How much do they weight? how tall are they? Are you more likely to win if your heavier than your opponent? Are you more likely to lose if your heavier than your opponent? 
@@ -17,7 +17,7 @@ The dataset I’m using has records of every professional match fought from Janu
 
 
 ## How much do sumo weight
-![Sumo](https://github.com/alifarah94/alifarah94.github.io/blob/master/img/total%20sumo%20weight.png?raw=true)
+![Sumo](https://github.com/alifarah94/alifarah94.github.io/blob/master/img/number%20of%20sumo%202.png?raw=true)
 
 Here the data is showing every sumo that has fought at each weight (The data is showing weights of sumo’s at each fight and not individual sumo)
 
@@ -42,4 +42,4 @@ And the numbers show the exact same for losing.
 If a sumo is heavier than his opponent, then he is 25% more likely to lose and so on. 
 
 ### Conclusion
-In conclusion it doesnt seem that weight makes a big diffrence in winning and losing. 
+In conclusion it doesnt seem that weight makes a big diffrence in winning and losing.
