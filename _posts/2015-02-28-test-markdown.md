@@ -15,6 +15,7 @@ I want to know who’s winning matches. How much do they weight? how tall are th
 
 The dataset I’m using has records of every professional match fought from January 1983 to September 2019. 
 
+![Sumo](https://github.com/alifarah94/alifarah94.github.io/blob/master/img/total%20sumo%20weight.png?raw=true)
 
 
 ## How much do sumo weight
