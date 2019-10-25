@@ -1,23 +1,9 @@
----
-layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
----
-
-
-
-**Here is some bold text**
-
 ## Who wins in Sumo
 
 Sumo wrestling is said to have been made 2000 years ago, rich in culture and deeply ingrained in the Japanese society it is now the national sport. 
 
 What intrigues me about sumo wresting is that there are no weight classes, everyone is able to fight everyone and what dictates who fights who is based on win/loss record in the tournament.
-(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjVp-7g9rflAhXuzoUKHTUIAHAQjRx6BAgBEAQ&url=https%3A%2F%2Fbjj-world.com%2Ftakanoyama-shuntaro-aka-pavel-bojar-smallest-sumo-champion%2F&psig=AOvVaw1T_o4IBpepVJlv_HhAJxz1&ust=1572110661273411)
+(https://bjj-world.com/wp-content/uploads/2017/12/Screenshot_122.jpg)
 
 
 How about a yummy crepe?
