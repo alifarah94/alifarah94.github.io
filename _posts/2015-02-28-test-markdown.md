@@ -2,19 +2,14 @@
 
 Sumo wrestling is said to have been made 2000 years ago, rich in culture and deeply ingrained in the Japanese society it is now the national sport. 
 
+
 What intrigues me about sumo wresting is that there are no weight classes, everyone is able to fight everyone and what dictates who fights who is based on win/loss record in the tournament.
 
 
 ![Sumo](https://bjj-world.com/wp-content/uploads/2017/12/Screenshot_122.jpg)
 
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+I want to know who’s winning matches. How much do they weight? how tall are they? Are you more likely to win if your heavier than your opponent? Are you more likely to lose if your heavier than your opponent? 
 
 Here's a code chunk:
 
